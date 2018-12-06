@@ -23,9 +23,7 @@ iOS 多线程安全的数组/字典/集合 类
 
 ```js
 + (instancetype)safetyDictionary;
-
 + (instancetype)safetyDictionaryWithDictionary:(NSDictionary *)dict;
-
 - (instancetype)initWithDictionary:(NSDictionary *)dict;
 ```
 #### （3）set

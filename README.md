@@ -1,7 +1,7 @@
 # ZQsafeObject
-SDK     | version | 日期
+ZQsafeObject     | version | 日期
 ------- | ------------------|---------
-iOS     | ZQsafeObject | 2018-12
+iOS     |  1.0 | 2018-12
 
 #### 要求
 iOS8.0 和Xcode 8以上

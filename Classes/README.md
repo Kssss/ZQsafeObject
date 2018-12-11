@@ -3,6 +3,10 @@ ZQsafeObject     | version | 日期
 ------- | ------------------|---------
 iOS     |  1.0 | 2018-12
 
+#### 使用pod 导入
+```ruby
+pod 'ZQsafeObject', '~> 1.0.0'
+```
 #### 要求
 iOS8.0 和Xcode 8以上
 ## 一、简介
